@@ -1,0 +1,4 @@
+20K	doc
+1.8M	tests
+28K	third-party
+664K	config
